@@ -1,7 +1,7 @@
 class script(object):
-    START_TXT = """<i><b>🎃 Helo {}, I'm <a href=https://telegram.me/{}>{}</a></i></b> \n\n<i><b>🔅 I Can Provide You Any Movies, Web-Series, Anime, K-Dramas, Animation, etc!</i></b>"""
-    
-    
+    START_TXT = """<i><b>🎃 Hello {}, I'm <a href=https://telegram.me/{}>{}</a></i></b> \n\n<i><b>🌟 Get Elite Membership at Just ₹40/- Per Month & I Can Provide You Any Movie, Series, Anime etc.,</i></b>"""
+    GRPSTART = """<b><i>🌟 Type Any Movie/Series Name You Want & I Will Provide It👇</b></i>"""
+
     HELP_TXT = """🔆彡[ @HEROFLiX ]彡🔆"""
 
     ABOUT_TXT = """🔆彡[ @HEROFLiX ]彡🔆"""
@@ -61,9 +61,7 @@ Nᴀᴍᴇ - {}"""
 
     TOP_ALRT_MSG = """🔆彡[ @HEROFLiX ]彡🔆"""
 
-    MELCOW_ENG = """<b><i>🔆 "HEROFLiX • GROUP" 亗 🔆
-•───────────────────• 
-⚜Hey {}, Welcome To HEROFlix • Group. You Can Request Any Movies, Web-Series, Anime, K-Dramas, Animation etc., here....</i></b>"""
+    MELCOW_ENG = """<b>⚜Hey {}, Welcome To {}. You Can Get Any Movies, Series, Anime & More Here!</b>"""
 
     SHORTLINK_INFO = """🔆彡[ @HEROFLiX ]彡🔆"""
 
