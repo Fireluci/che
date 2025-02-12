@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<i><b>🎃 Hello {}, I'm <a href=https://telegram.me/{}>{}</a></i></b> \n\n<i><b>🌟 Get Elite Membership at Just ₹50/- Per Month & I Can Provide You Any Movie, Series, Anime etc.,</i></b>"""
+    START_TXT = """<i><b>🎃 Hello {}, I'm <a href=https://telegram.me/{}>{}</a></i></b> \n\n<i><b>🌟 Get Elite Membership at Just ₹40/- Per Month & I Can Provide You Any Movie, Series, Anime etc.,</i></b>"""
     GRPSTART = """<b><i>🌟 Type Any Movie/Series Name You Want & I Will Provide It👇</b></i>"""
 
     HELP_TXT = """🔆彡[ @HEROFLiX ]彡🔆"""
